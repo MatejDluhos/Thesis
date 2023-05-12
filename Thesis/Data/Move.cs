@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Thesis
+namespace Thesis.Data
 {
-    internal class Evaluation
+    internal class Move
     {
     }
 }
